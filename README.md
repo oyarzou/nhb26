@@ -29,11 +29,6 @@ No non-standard hardware required
 
 - `pip install -r requirements.txt`
 
-### Installation using conda
-
-- `conda env create -f environment.yml`
-- `conda activate nhb26`
-
 Typical installation time: approximately 5 minutes on a standard desktop computer.
 
 ## Demo
