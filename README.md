@@ -24,8 +24,8 @@ Expected to run on Linux systems with a standard scientific Python stack
 ### Hardware
 No non-standard hardware required
 
-## Installation guide
-### Installation using pip
+## Installation
+### Using pip
 
 - `pip install -r requirements.txt`
 
