@@ -32,7 +32,7 @@ No non-standard hardware required
 ### Installation using conda
 
 - `conda env create -f environment.yml`
-- `conda activate ncomm25`
+- `conda activate nhb26`
 
 Typical installation time: approximately 5 minutes on a standard desktop computer.
 
